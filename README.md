@@ -14,7 +14,12 @@ This project evaluates patient-level predictors of diabetes using a dataset deri
 ## Tools
 - Python (pandas, NumPy, scikit-learn)  
 - Matplotlib  
-- Seaborn  
+- Seaborn
+
+## Visualization
+An interactive Tableau dashboard was created to communicate key healthcare-related patterns and model insights.
+
+- **[Tableau Dashboard](https://public.tableau.com/views/FinalProjectDiabetesMaureenJohnsonAug252023/DiabetesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Data Access
 The dataset used in this analysis is derived from NIDDK sources. To respect data use considerations, the dataset is not redistributed here. All preprocessing steps, modeling code, and analytic outputs are fully documented in the accompanying report.
