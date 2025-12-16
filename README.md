@@ -24,7 +24,7 @@ An interactive Tableau dashboard was created to communicate key healthcare-relat
 The dataset used in this analysis is derived from NIDDK sources. To respect data use considerations, the dataset is not redistributed here. All preprocessing steps, modeling code, and analytic outputs are fully documented in the accompanying report.
 
 ## Files
-- **[MJohnson_Capstone_Diabetes_Prediction.pdf](MJohnson_Capstone_Diabetes_Prediction.pdf)** — Full report including Python code, output, and interpretation for every analytic step (opens in browser).
+- **[MJohnson_Capstone_Diabetes_Prediction.pdf](MJohnson_Capstone_Diabetes_Prediction.pdf)** — Full report including Python code, output, and interpretation for every analytic step.
 
 ## Intended Use
 This project is provided for portfolio and demonstration purposes.
